@@ -1,0 +1,19 @@
+#img-div {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+}
+
+#image_mandela {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#tribute-info {
+    color: black;
+    font-size: 12px;
+}
