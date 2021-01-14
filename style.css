@@ -1,19 +1,27 @@
-#img-div {
-    width: 100%;
-    max-width: 400px;
-    height: auto;
-}
-
-#image_mandela {
-    width: 50%;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-
 #tribute-info {
     color: black;
-    font-size: 12px;
+    font-size: 22px;
+    font-family: 'Fraunces', serif;
+}
+
+#img-div{
+    width: 100%;
+    align-content: center;
+    min-width: 250px;
+}
+
+#image-mandela{
+    margin: auto;
+    max-width: 50%;
+    display: block;
+    border-radius: 75%;
+}
+
+h1{
+    text-align: center;
+    
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
 }
